@@ -3,7 +3,8 @@ body{
     background-image: linear-gradient(to left, #0F2027, #203A43, #2C5364);
 }
 .fixed-top{
-    background-color: rgba(129, 134, 193, 0.724);
+    /* background-color: rgba(129, 134, 193, 0.724); */
+    background-color: #0F2027;
     padding: 1rem 5rem; 
 }
 
