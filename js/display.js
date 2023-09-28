@@ -52,12 +52,12 @@ function showGraph() {
     // indicator = true;
     
 }
-function showAbout() {
-    // indicator = false;
-    $(".about-area-wrapper").show();
-    $(".coins-area-wrapper").hide();
-    $(".graph-area-wrapper").hide();
-}
+// function showAbout() {
+//     // indicator = false;
+//     $(".about-area-wrapper").show();
+//     $(".coins-area-wrapper").hide();
+//     $(".graph-area-wrapper").hide();
+// }
 
 
 
